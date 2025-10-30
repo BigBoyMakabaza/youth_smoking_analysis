@@ -1,0 +1,36 @@
+# Data files - keep repository clean and protect sensitive data
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Database files
+*.mdf
+*.ldf
+*.bak
+*.sqlite
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+logs/
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+tmp/
+temp/
